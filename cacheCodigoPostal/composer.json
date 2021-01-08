@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.2",
+        "lichtner/fluentpdo": "^2.2",
+        "slim/pdo": "^1.10"
+    }
+}
